@@ -5,8 +5,8 @@ header-img: /img/post-bg-desk.jpg
 email: secret
 description: "Every failure is leading towards success."
 keyword: "MY, MY Blog, LilyQ的博客, LilyQ, iOS, Apple, iPhone"
-url: "https://lily-qin.github.io/lilyq.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+url  : "https://lily-qin.github.io"            # 你的主机，绝对URL
+baseurl: "/lilyq.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lily-Qin/lilyq.github.io.git" # you code repository
 
 # Sidebar settings
