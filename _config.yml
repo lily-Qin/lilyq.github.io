@@ -1,7 +1,7 @@
-# Site settings
+# 站点设置
 title: My Blog
 SEOTitle: LilyQ的博客 | My Blog
-header-img: img/post-bg-desk.jpg
+header-img: /img/post-bg-desk.jpg
 email: secret
 description: "Every failure is leading towards success."
 keyword: "MY, MY Blog, LilyQ的博客, LilyQ, iOS, Apple, iPhone"
