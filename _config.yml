@@ -12,7 +12,7 @@ github_repo: "https://github.com/lily-Qin/lilyq.github.io.git" # you code reposi
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "人生充满无限可能，不要给自己设限！"
-sidebar-avatar: /img/my_image.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /lilyq.github.io/img/my_image.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
